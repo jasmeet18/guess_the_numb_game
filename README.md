@@ -32,9 +32,6 @@ guess-the-number/
 * ✅ HTML
 * ✅ JavaScript (Vanilla)
 
-## 📸 Preview
-
-![Guess the Number Game Screenshot](https://via.placeholder.com/600x300?text=Guess+the+Number+Game)
 
 ## 🔧 Future Enhancements
 
